@@ -1,0 +1,25 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "Zookeeper application ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phonix375/zookeepr.git"
+  },
+  "author": "phonix375",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phonix375/zookeepr/issues"
+  },
+  "homepage": "https://github.com/phonix375/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
